@@ -15,6 +15,6 @@ plugin://script.module.horus/?action=play&id=3097d7e7ff0fe414711ee067a841168b6f5
 plugin://script.module.horus/?action=play&id=135c420f704d717b8913b2a66b2722fd6b2c127c
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus/?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
-
-
-
+#EXTINF:-1 group-title="Deportes",Eurosport 1
+plugin://script.module.horus/?action=play&id=
+62a5750be4d2218b1064f83afaac4770fd92350d
