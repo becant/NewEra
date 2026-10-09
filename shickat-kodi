@@ -1,4 +1,4 @@
-#EXTM3U
+u#EXTM3U
 #EXTINF:-1 group-title="Deportes",M+ LaLiga
 plugin://script.module.horus/?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 group-title="Deportes",DAZN 1
@@ -16,4 +16,4 @@ plugin://script.module.horus/?action=play&id=135c420f704d717b8913b2a66b2722fd6b2
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus/?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 group-title="Deportes",Eurosport 1
-plugin://script.module.horus/?action=play&id=62a5750be4d2218b1064f83afaac4770fd92350d
+plugin://script.module.horus/?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
