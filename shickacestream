@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,  M+ laLiga ------> Sport TV
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1, DAZN 1 b151 --> SPORT TV
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1, DAZN LA LIGA 1 496a --> SPORT TV
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1, Movistar Plus--------> shickat
+acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
+#EXTINF:-1, M+ laliga ------------> shickat
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
+#EXTINF:-1, DAZN laliga ----------> shickat
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
+#EXTINF:-1, Laliga hipermotion---> shickat
+acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
+#EXTINF:-1, LIGA DE CAMPEONES f370 --> SPORT TV
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1, Eurosport 1 350d --> NewEra III
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1, Movistar Deportes 1 355d ---->NEW ERA III
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1, LIGA DE CAMPEONES 2 ceea ---->sportTV
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga ** --> ELCANO ...ca4
+acestream://b2f3ba0a1f83383b26b7f607453ddd27ecc67ca4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LALIGA --> NEW ERA VI ...1cb
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="Liga" tvg-id="M+ LaLiga HD", MOVISTAR LALIGA --> NEW ERA VI ...ed7
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
