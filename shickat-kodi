@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes",M+ LaLiga
+#EXTINF:-1 group-title="LIGA",M+ LaLiga
 plugin://script.module.horus/?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 group-title="Deportes",DAZN 1
+#EXTINF:-1 group-title="DAZN",DAZN 1
 plugin://script.module.horus/?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title="Deportes",DAZN LaLiga 1
+#EXTINF:-1 group-title="DAZN LALIGA",DAZN LaLiga 1
 plugin://script.module.horus/?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 group-title="Deportes",Movistar Plus+
+#EXTINF:-1 group-title="MOVISTAR +",Movistar Plus+
 plugin://script.module.horus/?action=play&id=67121cbb722b88ce4489717e9a87a26f60184ec9
-#EXTINF:-1 group-title="Deportes",M+ LaLiga (Opción 2)
+#EXTINF:-1 group-title="LIGA",M+ LaLiga (Opción 2)
 plugin://script.module.horus/?action=play&id=0b5f802f2de6488b4023d0f05195486e19d81ed7
-#EXTINF:-1 group-title="Deportes",DAZN LaLiga (Opción 2)
+#EXTINF:-1 group-title="DAZN LALIGA",DAZN LaLiga (Opción 2)
 plugin://script.module.horus/?action=play&id=3097d7e7ff0fe414711ee067a841168b6f5671cb
-#EXTINF:-1 group-title="Deportes",LaLiga Hypermotion
+#EXTINF:-1 group-title="HIPERMOTION",LaLiga Hypermotion
 plugin://script.module.horus/?action=play&id=135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
+#EXTINF:-1 group-title="CHAMPION LEAGUE",M+ Liga de Campeones
 plugin://script.module.horus/?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title="Deportes",M+ Deportes
+#EXTINF:-1 group-title="MOVISTAR DEPORTES",M+ Deportes
 plugin://script.module.horus/?action=play&id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
-#EXTINF:-1 group-title="Deportes",Eurosport 1
+#EXTINF:-1 group-title="EUROSPORT",Eurosport 1
 plugin://script.module.horus/?action=play&id=62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 group-title="Deportes", LIGA DE Campeones 2
+#EXTINF:-1 group-title="CHAMPION LEAGUE", LIGA DE Campeones 2
 plugin://script.module.horus/?action=play&id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 group-title="Deportes", Dazn LaLiga ----> elCano
+#EXTINF:-1 group-title="DAZN LALIGA", Dazn LaLiga ----> elCano
 plugin://script.module.horus/?action=play&id=b2f3ba0a1f83383b26b7f607453ddd27ecc67ca4
-#EXTINF:-1 group-title="Deportes", Dazn LaLiga ---> NewEra VI
+#EXTINF:-1 group-title="DAZN LALIGA", Dazn LaLiga ---> NewEra VI
 plugin://script.module.horus/?action=play&id=3097d7e7ff0fe414711ee067a841168b6f5671cb
-#EXTINF:-1 group-title="Deportes", Movistar Laliga -------> NewEra VI
+#EXTINF:-1 group-title="LIGA", Movistar Laliga -------> NewEra VI
 plugin://script.module.horus/?action=play&id=0b5f802f2de6488b4023d0f05195486e19d81ed7
