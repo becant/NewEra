@@ -4,7 +4,7 @@ plugin://script.module.horus/?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d
 #EXTINF:-1 group-title="DAZN",DAZN 1
 plugin://script.module.horus/?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 group-title="DAZN LALIGA",DAZN LaLiga 1
-plugin://script.module.horus/?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+plugin://script.module.horus/?action=play&id=599fb52eba4bd937b2029210bdeca9f1a34a32da
 #EXTINF:-1 group-title="MOVISTAR +",Movistar Plus+
 plugin://script.module.horus/?action=play&id=67121cbb722b88ce4489717e9a87a26f60184ec9
 #EXTINF:-1 group-title="LIGA",M+ LaLiga (Opción 2)
