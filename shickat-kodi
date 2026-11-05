@@ -13,10 +13,10 @@ plugin://script.module.horus/?action=play&id=0b5f802f2de6488b4023d0f05195486e19d
 plugin://script.module.horus/?action=play&id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 group-title="HIPERMOTION",LaLiga Hypermotion
 plugin://script.module.horus/?action=play&id=135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 group-title="CHAMPION LEAGUE",M+ Liga de Campeones
+#EXTINF:-1 group-title="CHAMPION LEAGUE",M+ Liga de Campeones..370
 plugin://script.module.horus/?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title="CHAMPION LEAGUE",M+ Liga de Campeones
-plugin://script.module.horus/?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 group-title="CHAMPION LEAGUE",M+ Liga de Campeones..e84
+plugin://script.module.horus/?action=play&id=66382069b0b1863428e2a107bbeb236241365e84
 #EXTINF:-1 group-title="MOVISTAR DEPORTES",M+ Deportes
 plugin://script.module.horus/?action=play&id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 group-title="EUROSPORT",Eurosport 1
